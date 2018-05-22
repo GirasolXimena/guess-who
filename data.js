@@ -1,5 +1,4 @@
-var people = [
-  {
+var people = [{
     name: 'Dev',
     githubUsername: 'devjanaprime',
     profilePic: `https://avatars0.githubusercontent.com/u/17906158?s=400&v=4`,
